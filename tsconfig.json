@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "target": "es6",
+    "lib": [
+      "esnext",
+      "dom",
+      "webworker"
+    ]
+  }
+}
